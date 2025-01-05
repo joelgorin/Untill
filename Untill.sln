@@ -40,6 +40,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución",
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Untill.App", "Sources\Untill.App\Untill.App.csproj", "{CE32A51B-D83B-4A11-B449-3731A97E56DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,12 @@ Global
 		{2A315D67-B631-478A-8F67-9EE9DB03D0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A315D67-B631-478A-8F67-9EE9DB03D0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A315D67-B631-478A-8F67-9EE9DB03D0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE32A51B-D83B-4A11-B449-3731A97E56DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE32A51B-D83B-4A11-B449-3731A97E56DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE32A51B-D83B-4A11-B449-3731A97E56DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CE32A51B-D83B-4A11-B449-3731A97E56DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE32A51B-D83B-4A11-B449-3731A97E56DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE32A51B-D83B-4A11-B449-3731A97E56DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,5 +109,6 @@ Global
 		{9ED129C8-9C2F-4E19-8CCC-51FBC5CDE0A7} = {1DD25606-DF8E-4B91-9335-F916B14BF596}
 		{EC6267FA-4762-400A-8D7C-0FC0FB167AE8} = {1DD25606-DF8E-4B91-9335-F916B14BF596}
 		{2A315D67-B631-478A-8F67-9EE9DB03D0C5} = {1DD25606-DF8E-4B91-9335-F916B14BF596}
+		{CE32A51B-D83B-4A11-B449-3731A97E56DC} = {E6C0A80B-5ADC-4138-A79D-C9C128EA163B}
 	EndGlobalSection
 EndGlobal

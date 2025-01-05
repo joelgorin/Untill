@@ -1,26 +1,8 @@
-<div align="center">
+# Untill Agenda
 
-[![Build](https://github.com/amantinband/clean-architecture/actions/workflows/build.yml/badge.svg)](https://github.com/amantinband/clean-architecture/actions/workflows/build.yml) [![Publish template to NuGet](https://github.com/amantinband/clean-architecture/actions/workflows/publish.yml/badge.svg)](https://github.com/amantinband/clean-architecture/actions/workflows/publish.yml)
+Personal agenda.
 
-[![GitHub contributors](https://img.shields.io/github/contributors/amantinband/clean-architecture)](https://GitHub.com/amantinband/clean-architecture/graphs/contributors/) [![GitHub Stars](https://img.shields.io/github/stars/amantinband/clean-architecture.svg)](https://github.com/amantinband/clean-architecture/stargazers) [![GitHub license](https://img.shields.io/github/license/amantinband/clean-architecture)](https://github.com/amantinband/clean-architecture/blob/main/LICENSE)
-[![codecov](https://codecov.io/gh/amantinband/clean-architecture/branch/main/graph/badge.svg?token=DR2EBIWK7B)](https://codecov.io/gh/amantinband/clean-architecture)
-
----
-
-![Clean Architecture Template Title](assets/Clean%20Architecture%20Template%20Title.png)
-
----
-
-</div>
-
-```shell
-dotnet new install Amantinband.Untill.Template
-
-dotnet new clean-arch -o Untill
-```
-
-- [️Important notice ⚠️](#️important-notice-️)
-- [Give it a star ⭐](#give-it-a-star-)
+- [Untill Agenda](#untill-agenda)
 - [Domain Overview 🌍](#domain-overview-)
   - [Basic Subscription](#basic-subscription)
   - [Pro Subscription](#pro-subscription)
@@ -56,18 +38,6 @@ dotnet new clean-arch -o Untill
 - [Contribution 🤲](#contribution-)
 - [Credits 🙏](#credits-)
 - [License 🪪](#license-)
-
-# ️Important notice ⚠️
-
-This template is still under construction 👷.
-
-Check out my comprehensive [course](https://dometrain.com/bundle/from-zero-to-hero-clean-architecture/?coupon_code=GITHUB) on Dometrain where I cover everything you need to know when building production applications structured following clean architecture. Use the exclusive coupon code `GITHUB` to get 5% off (btw this is the only promo code for a discount on the bundle, which is already 20% off).
-
-<img src="assets/Clean%20Architecture%20Template%20Promo%20Code.png" height=30px >
-
-# Give it a star ⭐
-
-Loving it? Show your support by giving this project a star!
 
 # Domain Overview 🌍
 
@@ -516,7 +486,7 @@ If you have any questions, comments, or suggestions, please open an issue or cre
 
 # Credits 🙏
 
-- [Untill](https://github.com/jasontaylordev/Untill) - An awesome clean architecture solution template by Jason Taylor
+- [amantinband](https://github.com/amantinband) - An awesome clean architecture solution template by Amichai Mantinband
 
 # License 🪪
 
